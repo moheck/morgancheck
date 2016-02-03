@@ -3,7 +3,7 @@
 <head>
 <title>Morgan Heck</title>
 
-<link rel="icon" type="image/ico" href="http://www.morgancheck.com/favicon.ico"/>
+<link rel="icon" type="image/ico" src="favicon.ico">
 
 <style>
 *{
