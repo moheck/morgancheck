@@ -3,6 +3,8 @@
 <head>
 <title>Morgan Heck</title>
 
+<link rel="icon" href=“favicon.ico”>
+
 <style>
 *{
   margin: 0; padding: 0;
