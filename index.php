@@ -2,6 +2,9 @@
 <html>
 <head>
 <title>Morgan Heck</title>
+
+<link rel="icon" type="image/ico" href="favicon.ico"/>
+
 <style>
 *{
   margin: 0; padding: 0;
