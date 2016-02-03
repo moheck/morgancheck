@@ -26,7 +26,7 @@ font-family:"Impact, Charcoal, sans-serif";
 <body>
 <div id="header">
 <h1>Morgan Heck </h1>
-<img ="IMG_5251.jpg" height=175>
+<img src="IMG_5251.jpg" height=175>
 <h5>University of Arizona sophomore</h5>
 <h5>Software Developer</h5>
 <h5>Microsoft Student Partner</h5>
