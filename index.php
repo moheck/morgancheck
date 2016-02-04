@@ -47,17 +47,18 @@ color:black;
 	background:#DDD ;
 }
 #hackaz{
-	background:white;
+	background:#DDD;
 }
 #dev{
-	background:#DDD;
+	background:white;
 }
 #micro{
 	background:white;
 }
 .section{
-	height:200px;
+	height:250px;
 	padding: 0 64px;
+	border-top-style: solid;
 }
 #header h1, #header h5 a{
 	color:white;
@@ -85,13 +86,14 @@ color:black;
  <div id="college" class="section">
  <br><br><br>
  <h2>University of Arizona sophomore</h2>
- <p> I am a computer science major at the U of A. Five days a weeek I am on campus, going to classes and doing schoolwork. I also attend weekly meetings with the InnovateUA chapter, an amazing group of students that organize and attend tech events on and off campus. </p>
+ <p> I am a computer science major at the U of A. I've met lots of great people here and I love what I study. Five days a weeek I am on campus, going to classes and doing schoolwork. I also attend weekly meetings with the InnovateUA chapter, an amazing group of students that organize and attend tech events on and off campus. </p>
  </div>
 
   <div id="hackaz" class="section">
    <br><br><br>
  <h2> Hack Arizona Organizer</h2>
- <p> Hack Arizona is sweet</p>
+ <p> I got on board the Hack Arizona organizing team Fall semester 2015. Helping organize what would be my first hackathon was an interesting experience, but, I loved the idea and I wanted to help.</p><br>
+ <p> It was an amazing event for many reasons. What I really liked was that I was constantly learning from the brilliant people around me. It was an innovation machine that ran for 36 hours, made of talented students, tech industry proffessionals, and various faculty. Ideas and knowledge flowed like moving parts throughout the library, and imaginations were brought to life. I was happy to be a part of it.</p>
  </div>
 
  <div id="dev" class="section">
