@@ -70,7 +70,7 @@ color:black;
 <body>
 <div id="header">
 <h1>Morgan Heck </h1>
-<img src="/Users/morganheck/morgancheck/IMG_5251.jpg" height=175>
+<img src="IMG_5251.jpg" height=175>
 <h5><a href="#college">University of Arizona sophomore</a></h5>
 <h5><a href="#dev">Software Developer</a></h5>
 <h5><a href="#micro">Microsoft Student Partner</a></h5>
