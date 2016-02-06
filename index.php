@@ -22,6 +22,7 @@ a{
 }
 h1{
 color:black;
+font-family:Verdana, Geneva, sans-serif;
 }
 h5{
 color:black;
