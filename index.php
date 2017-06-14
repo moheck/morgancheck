@@ -89,28 +89,28 @@ h1 span{
 	 </div>
 
 	 <div id="college" class="section">
-		 <h2>University of Arizona sophomore</h2>
-		 <p> I study Computer Science at U of A. Although I am distracted with a number of other projects and obligations, I take my education seriously. </p>
+		 <h2>University of Arizona Rising Senior</h2>
+		 <p> In college, I have learned that most of the year I work full time at the University of Arizona Main Library. I fell in love with this school and the people that go here, (particularly my fellow Directors and Organizers at Hack Arizona!). Excited to finish my last year, and will surely look back on these years as an invaluable experience. </p>
 	 </div>
 
 	 <div id="dev" class="section">
 		 <h2> Software Developer</h2>
-		 <p> I am always trying to learn more about software. I love being a developer because there is always more to learn and something new to build. I enjoy sharing what I know and learning from others.
+		 <p> While I am many things, I am very much a software developer. It is my education, my job, and my life. I consider myself a lifelong learner in this area and push myself to be a better software developer every day. </p>
 	 </div>
 
 	 <div id="micro" class="section">
 		 <h2> Microsoft Intern and Student Partner</h2>
-		 <p> I interned for Microsoft Office Summer 2016 and will be going back to a new team Summer 2017. I'm also the campus rep for Microsoft.</p>
+		 <p> I interned for Microsoft Office the summer of 2016 and worked on what is still a relatively new Office app called Sway. At Sway I developed an image cropping tool. Summer 2017, I returned to the Office org but to the Licensing team, where I will be working on and improving more outdated pieces in the Office stack. </p>
 	 </div>
 
 	<div id="bot" class="section">
 		<h2>Contact</h2>
-		<p>mcheck96@gmail.com</p>
-		<p>(858) 722-7734</p>
+		<p>morgan@wonder-bot.com</p>
 		<p><a href="https://twitter.com/morgan_heck">twitter</a></p>
 		<p><a href="https://github.com/moheck">github</a></p>
 		<p><a href="https://www.linkedin.com/in/morgan-heck-04aa3a94?trk=nav_responsive_tab_profile">linkedin</a></p>
 		<p><a href="https://www.instagram.com/mo.heck/">instagram</a></p>
+		<p><a href="https://medium.com/@morgan_heck">medium</a></p>
 	</div>
 </body>
 </html>
