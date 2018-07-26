@@ -12,6 +12,8 @@
 body{
 	font-family:Helvetica;
 	text-align: center;
+	margin-left: 20%;
+	margin-right: 20%;
 }
 #header{
 	background: -webkit-gradient(linear, left top, right bottom,from(#484848),to(#0066FF));
