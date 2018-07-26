@@ -37,17 +37,12 @@ body{
 #dev{
 	background:#DDD;
 }
-#micro{
-	background: -webkit-gradient(linear, left top, right bottom,from(#484848),to(#0066FF));}
 #projects{
 	background:#DDD;
 }
 #projects a{
 	text-decoration: underline;
 	color: black;
-}
-#micro h2, #micro p{
-	color: white;
 }
 .section{
 	padding: 64px 64px;
@@ -71,9 +66,8 @@ h1 span{
 	<div id="header">
 		<h1><span>Morgan Heck</span></h1>
 		<img src="IMG_5251.jpg" height=175>
-		<h5><a href="#college">University of Arizona sophomore</a></h5>
+		<h5><a href="#college">University of Arizona Graduate</a></h5>
 		<h5><a href="#dev">Software Developer</a></h5>
-		<h5><a href="#micro">Microsoft Student Partner</a></h5>
 	</div>
 
 	<div id="mid">
@@ -85,22 +79,16 @@ h1 span{
 		 <p> <a href="https://wonder-bot.com/"> Wonder </a></p>
 		 <p> <a href="http://thewdaily.com/"> The W </a></p>
 		 <p> <a href="http://earbuds.herokuapp.com/"> EarBuds </a></p>
-		 <p> <a href="https://github.com/moheck/NewsBot"> NewsBot </a></p>
 	 </div>
 
 	 <div id="college" class="section">
-		 <h2>University of Arizona Rising Senior</h2>
-		 <p> In college, I have learned that most of the year I work full time at the University of Arizona Main Library. I fell in love with this school and the people that go here, (particularly my fellow Directors and Organizers at Hack Arizona!). Excited to finish my last year, and will surely look back on these years as an invaluable experience. </p>
+		 <h2>University of Arizona Graduate</h2>
+		 <p> I would need many words to explain all that I learned at the University of Arizona. I learned many life lessons, such as how to balance self-dependence and depending on others, the importance of caring for my friends and family, and how to work well with others. I am forever grateful for my friends, professors, and mentors that I met at U of A. </p>
 	 </div>
 
 	 <div id="dev" class="section">
 		 <h2> Software Developer</h2>
-		 <p> While I am many things, I am very much a software developer. It is my education, my job, and my life. I consider myself a lifelong learner in this area and push myself to be a better software developer every day. </p>
-	 </div>
-
-	 <div id="micro" class="section">
-		 <h2> Microsoft Intern and Student Partner</h2>
-		 <p> I interned for Microsoft Office the summer of 2016 and worked on what is still a relatively new Office app called Sway. At Sway I developed an image cropping tool. Summer 2017, I returned to the Office org but to the Licensing team, where I will be working on and improving more outdated pieces in the Office stack. </p>
+		 <p> One of the skills that I am most proud of is my ability to write software. Programming has always challenged me in a unique way that keeps me interested. I consider it a rare and special skill, and I believe that anyone that has it therefore has the potential to change the world in a big way.  </p>
 	 </div>
 
 	<div id="bot" class="section">
