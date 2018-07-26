@@ -25,7 +25,7 @@ body{
 	padding: 6px;
 }
 #bot{
-	background-color: #DDD;
+	background-color: white;
 }
 #bot a{
 	text-decoration: underline;
